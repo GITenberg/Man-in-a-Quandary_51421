@@ -1,0 +1,36 @@
+_repo: Man-in-a-Quandary_51421
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Martinez
+    gutenberg_agent_id: '26040'
+    url: http://www.gutenberg.org/2009/agents/26040
+creator:
+  author:
+    agent_name: Stecher, L. J., Jr.
+    aliases:
+    - Stecher, L. J.
+    - Stecher, Lewis J., Jr.
+    - Wesley, Joseph
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '32723'
+    url: http://www.gutenberg.org/2009/agents/32723
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Man in a Quandary
+url: http://www.gutenberg.org/ebooks/51421
